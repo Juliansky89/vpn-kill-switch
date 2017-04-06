@@ -12,7 +12,7 @@ selection=
 until [ "$selection" = "0" ]; do
     echo ""
     echo "ibVPN KillSwitch"
-    echo "Note - it is advisiblht"    
+    echo "Note - it is advisable to backup your configuration"    
     echo "1 - Enable KillSwitch"
     echo "2 - Disable KillSwitch"
     echo "3 - Backup current configuration"
