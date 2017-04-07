@@ -8,18 +8,18 @@ Just run:
 
 # Instructions
 
-Step 1. Clone the repo into your machine
+Step 1. Clone the repo into your machine:
 <code>git clone http://github.com/JulianskyCode/vpn-kill-switch</code>
 
 
 Step 2. Open the cloned repo (don't start the script yet):
-cd vpn-kill-switch
+<code>cd vpn-kill-switch</code>
 https://www.ibvpn.com/billing/images/Linux_KillSWtich/1.png
 
-Step 3. Connect to one of the ibVPN servers. This is important to be enabled now as you won't be able to connect after the killswitch has been enabled.
+Step 3. Connect to one of the ibVPN servers. This is <b>important</b> to be enabled now as you won't be able to connect after the killswitch has been enabled.
 
 Step 4. After getting connected to the VPN, run the killswitch script:
-sh killswitch.sh
+<code>sh killswitch.sh</code>
 https://www.ibvpn.com/billing/images/Linux_KillSWtich/2.png
 
 # Options
