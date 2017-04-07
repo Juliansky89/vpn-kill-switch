@@ -1,10 +1,5 @@
 # vpn-kill-switch
-VPN kill switch script to use with ibVPN service.
-Just run:
-<code>sudo sh killswitch.sh</code> and choose options:
-1. Enable KillSwitch
-2. Disable KillSwitch
-0. Exit
+VPN kill switch script to use with ibVPN service. You need to first get connected to one of the ibVPN servers and then enable the Kill Switch.
 
 # Instructions
 
@@ -19,7 +14,7 @@ https://www.ibvpn.com/billing/images/Linux_KillSWtich/1.png
 <b>Step 3.</b> Connect to one of the ibVPN servers. This is <b>important</b> to be enabled now as you won't be able to connect after the killswitch has been enabled.
 
 <b>Step 4.</b> After getting connected to the VPN, run the killswitch script:
-<code>sh killswitch.sh</code>
+<code>sudo sh killswitch.sh</code>
 https://www.ibvpn.com/billing/images/Linux_KillSWtich/2.png
 
 # Options
