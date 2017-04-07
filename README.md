@@ -22,6 +22,7 @@ Step 4. After getting connected to the VPN, run the killswitch script:
 sh killswitch.sh
 https://www.ibvpn.com/billing/images/Linux_KillSWtich/2.png
 
+# Options
 Choose one of the options (preferably backing up your current config now):
 
   1. Enable KillSwitch -> it will launch the vpnfirewall preventing any access to the internet without a VPN.
