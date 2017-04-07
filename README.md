@@ -9,7 +9,7 @@ Just run:
 # Instructions
 
 Step 1. Clone the repo into your machine
-git clone http://github.com/JulianskyCode/vpn-kill-switch
+<code>git clone http://github.com/JulianskyCode/vpn-kill-switch</code>
 
 
 Step 2. Open the cloned repo (don't start the script yet):
